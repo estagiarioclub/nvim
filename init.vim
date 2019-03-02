@@ -17,6 +17,7 @@ Plug 'ayu-theme/ayu-vim'
 Plug 'ryanoasis/vim-devicons'
 Plug 'scrooloose/nerdtree'
 Plug 'junegunn/fzf.vim'
+Plug 'terryma/vim-multiple-cursors'
 call plug#end()
 
 source /home/jholdy/.config/nvim/config/theme.vimrc
